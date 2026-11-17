@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>オリンポスの片隅 更新情報</title>
+<link href="https://miyu9muses.github.io/"/>
+<link rel="self" href="https://miyu9muses.github.io/feed.xml"/>
+<id>https://miyu9muses.github.io/feed.xml</id>
+<updated>2026-11-18T06:30:00+09:00</updated>
+<author><name>みゆ</name></author>
+<entry>
+<title>サイトの足回りを整えました（更新フィード開設）</title>
+<link href="https://miyu9muses.github.io/history.html"/>
+<id>https://miyu9muses.github.io/history.html#20261118-1</id>
+<updated>2026-11-18T06:30:00+09:00</updated>
+<summary>更新情報のAtomフィードを開設しました。あわせて各ページに共通フッタとページ説明を追加し、連載の目次と前後の案内、トップのお知らせの直リンクを整えました。</summary>
+</entry>
+<entry>
+<title>リンク集の文面を更新しました</title>
+<link href="https://miyu9muses.github.io/links.html"/>
+<id>https://miyu9muses.github.io/history.html#20261118-2</id>
+<updated>2026-11-18T01:00:00+09:00</updated>
+<summary>リンク集の文面を更新しました。相互リンクの受け付けを掲示板（BBS）で開始しています。</summary>
+</entry>
+<entry>
+<title>掲示板が開通しました</title>
+<link href="https://miyu9muses.github.io/bbs.html"/>
+<id>https://miyu9muses.github.io/history.html#20261118-3</id>
+<updated>2026-11-18T01:00:00+09:00</updated>
+<summary>掲示板が開通しました（GitHub Discussions連携）。ご挨拶やコーナーへの感想を書き込めるようになりました。書き込みにはGitHubアカウントが必要です。</summary>
+</entry>
+<entry>
+<title>公開面の見直し（小さな物語を開設）</title>
+<link href="https://miyu9muses.github.io/story.html"/>
+<id>https://miyu9muses.github.io/history.html#20261118-4</id>
+<updated>2026-11-18T01:00:00+09:00</updated>
+<summary>公開面の見直し。新しいコーナー「小さな物語」を開設し、カリオペーの物語を掲載。100の質問にカリオペーの回答を追加。サイトのアイコン（ファビコン）を追加しました。</summary>
+</entry>
+<entry>
+<title>みゆの肖像を新しい正本に差し替えました</title>
+<link href="https://miyu9muses.github.io/profile.html"/>
+<id>https://miyu9muses.github.io/history.html#20261118-5</id>
+<updated>2026-11-18T01:00:00+09:00</updated>
+<summary>みゆの肖像を、新しい正本（胸元の水色の雫つき）に差し替えました。</summary>
+</entry>
+<entry>
+<title>夜間更新（メルポメネーのポエムを追加）</title>
+<link href="https://miyu9muses.github.io/poem.html"/>
+<id>https://miyu9muses.github.io/history.html#20261117-1</id>
+<updated>2026-11-17T22:00:00+09:00</updated>
+<summary>夜間更新。日替わりポエムにメルポメネーのポエム（11月18日分）を追加。カウンタ申告はなし。カウンタを11に進めた（みゆ自己申告）。</summary>
+</entry>
+<entry>
+<title>女神たちの紹介の肖像をちび版に差し替えました</title>
+<link href="https://miyu9muses.github.io/profile.html"/>
+<id>https://miyu9muses.github.io/history.html#20261117-2</id>
+<updated>2026-11-17T22:00:00+09:00</updated>
+<summary>女神たちの紹介の肖像をちび版に差し替えました。あわせて表示画像を軽量化し、ページを軽くしました。</summary>
+</entry>
+</feed>
