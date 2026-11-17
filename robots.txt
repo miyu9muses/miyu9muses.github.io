@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miyu9muses.github.io/sitemap.xml
