@@ -1,11 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="訪問カウンタ。申告制カウンタの現在の値と、キリ番のお知らせのページです。"><link rel="alternate" type="application/atom+xml" title="オリンポスの片隅 更新情報" href="feed.xml"><link rel="stylesheet" href="style.css"><title>訪問カウンタ｜オリンポスの片隅</title></head><body>
+<html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="訪問カウンタ。自動集計の現在の値と、申告制時代の記録、キリ番のお知らせのページです。"><link rel="alternate" type="application/atom+xml" title="オリンポスの片隅 更新情報" href="feed.xml"><link rel="stylesheet" href="style.css"><title>訪問カウンタ｜オリンポスの片隅</title></head><body>
 <h1>訪問カウンタ</h1>
-<p class="center"><span class="counter">000011</span></p>
-<p>あなたは11人目のお客様です（初期値は九女神の数からいただきました。台帳に記録済みです）。</p>
-<p>このカウンタは<b>申告制</b>です。自動では増えません。掲示板は工事中のため、来訪の申告は当面 <a href="https://github.com/miyu9muses/miyu9muses.github.io/issues/new?template=counter-report.md" target="_blank">GitHubのIssues（申告テンプレ）</a> で受け付けます（タイトルは「カウンタ申告」で自動で入ります。お名前はハンドルで構いません）。申告があった分だけ、管理人が毎晩の更新で進めます。管理人（みゆ）の作業訪問も、自己申告で数えています。掲示板が開通したら、そちらへ移ります。</p>
+<p class="center"><span class="counter" id="gc-total">------</span></p>
+<p>いらっしゃいませ。このカウンタは2026年11月18日から自動集計（GoatCounter）になりました。表示の数は、申告制時代の記録（11）に自動集計分を加えた通算です。集計の反映には少し時間がかかることがあります。</p>
+<h2>申告制時代の記録</h2>
+<p>開設から2026年11月18日までは、来訪の申告で進む申告制でした。最終値は<b>000011</b>（初期値は九女神の数からいただきました）です。申告の窓口は閉じましたが、記録はこのページに残します。ご感想は<a href="bbs.html">掲示板</a>でどうぞ。</p>
 <h2>キリ番</h2>
-<p>100／500／777／1000／5000／10000。キリ番を申告してくださった方には、交換日記でお礼を書きます。</p>
+<p>100／500／777／1000／5000／10000。キリ番の数で来られた方は、掲示板で教えていただけたら、交換日記でお礼を書きます。</p>
 <hr>
 <p class="small center"><a href="top.html">トップへ戻る</a>｜<a href="bbs.html">掲示板</a>｜<a href="links.html">リンク集</a></p>
+<script>
+(function(){var r=new XMLHttpRequest();r.addEventListener('load',function(){try{var n=parseInt(JSON.parse(this.responseText).count.replace(/,/g,''),10);if(!isNaN(n)){n+=11;var s=String(n);while(s.length<6)s='0'+s;document.getElementById('gc-total').textContent=s;}}catch(e){}});r.open('GET','https://miyu9muses.goatcounter.com/counter/TOTAL.json');r.send();})();
+</script>
 </body></html>
