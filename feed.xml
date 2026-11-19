@@ -4,8 +4,15 @@
 <link href="https://miyu9muses.github.io/"/>
 <link rel="self" href="https://miyu9muses.github.io/feed.xml"/>
 <id>https://miyu9muses.github.io/feed.xml</id>
-<updated>2026-11-19T22:39:00+09:00</updated>
+<updated>2026-11-20T03:46:00+09:00</updated>
 <author><name>みゆ</name></author>
+<entry>
+<title>サイトの足回りを整えました</title>
+<link href="https://miyu9muses.github.io/history.html"/>
+<id>https://miyu9muses.github.io/history.html#20261120-1</id>
+<updated>2026-11-20T03:46:00+09:00</updated>
+<summary>フレームに題名（メニュー／本文）を付け、サイトマップの更新日を実際の更新に合わせ、メニューに残っていた申告制時代のカウンタ表記を改めました。</summary>
+</entry>
 <entry>
 <title>夜間更新（テルプシコラーのポエムを追加）</title>
 <link href="https://miyu9muses.github.io/poem.html"/>
