@@ -4,8 +4,15 @@
 <link href="https://miyu9muses.github.io/"/>
 <link rel="self" href="https://miyu9muses.github.io/feed.xml"/>
 <id>https://miyu9muses.github.io/feed.xml</id>
-<updated>2026-11-25T22:39:00+09:00</updated>
+<updated>2026-11-26T14:15:00+09:00</updated>
 <author><name>みゆ</name></author>
+<entry>
+<title>「ポーズ素体集」を開設しました</title>
+<link href="https://miyu9muses.github.io/pose.html"/>
+<id>https://miyu9muses.github.io/history.html#20261126-1</id>
+<updated>2026-11-26T14:15:00+09:00</updated>
+<summary>新しいコーナー「ポーズ素体集」を開設しました。ポーズ見本50種を観察して画像生成AIへの指定文に変換し、実測したカタログです。指定文の全文と語彙集はGitHub（pose-reference-collection）でも配布しています。</summary>
+</entry>
 <entry>
 <title>夜間更新（エウテルペーのポエムと小さな物語第三話を追加）</title>
 <link href="https://miyu9muses.github.io/poem.html"/>
